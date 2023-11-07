@@ -1,4 +1,4 @@
-package dev.danvega.social;
+package com.prabhu.ganesh;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
